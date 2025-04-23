@@ -54,6 +54,6 @@ oi:) Me chamo Daniela Yukari, tenho 19 anos e, atualmente, sou estudante de Supe
     align = "left"
     alt = "Github Stats"
     height = "180"
-    style = "padding-right: 10px;"
+    style = "padding-right: 50px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzleven&theme=date_night&layout=compact&custom_title=Tecnologias" 
 />
