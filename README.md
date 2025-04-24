@@ -15,8 +15,8 @@
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  alt = "HTML" title = "HTML" width = "30px" style = "padding-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt = "HTML" title = "HTML" width = "30px" style = "padding-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt = "HTML" title = "HTML" width = "30px" style = "padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt = "CSS" title = "HTML" width = "30px" style = "padding-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt = "JS" title = "HTML" width = "30px" style = "padding-right: 10px;"/>
 </div>
 
 <br>
