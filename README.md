@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    Olá, me chamo Daniela Yukari Yoshihara, tenho 19 anos e, atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, na Cruzeiro do Sul Virtual. 
+    Olá, me chamo Daniela Yukari Yoshihara, tenho 20 anos e, atualmente, sou estudante do curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, na Cruzeiro do Sul Virtual. 
     Com imensa força de vontade e paixão pelo aprendizado, busco constantemente desafios e ambientes que me impulsionem ao conhecimento na área da tecnologia!
     <br><br>
 </div>
